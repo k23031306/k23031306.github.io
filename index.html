@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Part 3: Implementation</h1>
+
+<ul>
+    <li>Below is my implementation of the visualisation I designed for Q2: "“Analyse regional house prices in the UK. Are there any differences between regions?".</li>
+    <li>I was unable to get a GeoJSON map working with all regions of the UK however, so I have kept to England only.</li>
+    <li>To create this, I combined the housing dataset given on KEATS with a London specific house price dataset I found online (referenced in my report). The JSON file is included in the zipped submission folder.</li>
+    <li>For each region of England, the average price of the four quarters of 2023. For the London boroughs, the most recent dataset was from 2017.</li>
+    <li>This implementation was inspired by and adapted from the template given here: https://codepen.io/bwiacek/pen/pXZEvK.</li>
+</ul>
+
+<div id="button">
+    <button id="toggleButton">Toggle Map</button>
+</div>
+
+<div id="content">
+    <svg width="1000" height="800">
+        <g class="map" id="england-map"></g>
+        <g class="map" id="boroughs-map"></g>
+    </svg>
+</div>
+
+<div id="tooltip" style="position: absolute; visibility: hidden; padding: 10px; background-color: white; border: 1px solid #ccc; border-radius: 5px; pointer-events: none;"></div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
+<script src="main.js"></script>
+</body>
+</html>

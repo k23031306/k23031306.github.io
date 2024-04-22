@@ -1,0 +1,172 @@
+[
+ null,
+ {
+  "Column1": "North East",
+  "2023": 201000
+ },
+ {
+  "Column1": "North West",
+  "2023": 248000
+ },
+ {
+  "Column1": "Yorkshire and The Humber",
+  "2023": 237000
+ },
+ {
+  "Column1": "East Midlands",
+  "2023": 267000
+ },
+ {
+  "Column1": "West Midlands",
+  "2023": 276000
+ },
+ {
+  "Column1": "East of England",
+  "2023": 388000
+ },
+ {
+  "Column1": "London",
+  "2023": 590000
+ },
+ {
+  "Column1": "South East",
+  "2023": 432000
+ },
+ {
+  "Column1": "South West",
+  "2023": 338000
+ },
+ null,
+ {
+  "Column1": "City of London",
+  "2017": 950759
+ },
+ {
+  "Column1": "Barking and Dagenham",
+  "2017": 301518
+ },
+ {
+  "Column1": "Barnet",
+  "2017": 667593
+ },
+ {
+  "Column1": "Bexley",
+  "2017": 357778
+ },
+ {
+  "Column1": "Brent",
+  "2017": 578704
+ },
+ {
+  "Column1": "Bromley",
+  "2017": 502622
+ },
+ {
+  "Column1": "Camden",
+  "2017": 1099875
+ },
+ {
+  "Column1": "Croydon",
+  "2017": 399645
+ },
+ {
+  "Column1": "Ealing",
+  "2017": 578109
+ },
+ {
+  "Column1": "Enfield",
+  "2017": 463805
+ },
+ {
+  "Column1": "Greenwich",
+  "2017": 462819
+ },
+ {
+  "Column1": "Hackney",
+  "2017": 614954
+ },
+ {
+  "Column1": "Hammersmith and Fulham",
+  "2017": 972231
+ },
+ {
+  "Column1": "Haringey",
+  "2017": 683987
+ },
+ {
+  "Column1": "Harrow",
+  "2017": 527206
+ },
+ {
+  "Column1": "Havering",
+  "2017": 387535
+ },
+ {
+  "Column1": "Hillingdon",
+  "2017": 452271
+ },
+ {
+  "Column1": "Hounslow",
+  "2017": 507876
+ },
+ {
+  "Column1": "Islington",
+  "2017": 778290
+ },
+ {
+  "Column1": "Kensington and Chelsea",
+  "2017": 2092484
+ },
+ {
+  "Column1": "Kingston upon Thames",
+  "2017": 573938
+ },
+ {
+  "Column1": "Lambeth",
+  "2017": 616125
+ },
+ {
+  "Column1": "Lewisham",
+  "2017": 475142
+ },
+ {
+  "Column1": "Merton",
+  "2017": 638519
+ },
+ {
+  "Column1": "Newham",
+  "2017": 409477
+ },
+ {
+  "Column1": "Redbridge",
+  "2017": 452436
+ },
+ {
+  "Column1": "Richmond upon Thames",
+  "2017": 819043
+ },
+ {
+  "Column1": "Southwark",
+  "2017": 641209
+ },
+ {
+  "Column1": "Sutton",
+  "2017": 402120
+ },
+ {
+  "Column1": "Tower Hamlets",
+  "2017": 554009
+ },
+ {
+  "Column1": "Waltham Forest",
+  "2017": 459921
+ },
+ {
+  "Column1": "Wandsworth",
+  "2017": 818443
+ },
+ {
+  "Column1": "Westminster",
+  "2017": 1718123
+ }
+]
